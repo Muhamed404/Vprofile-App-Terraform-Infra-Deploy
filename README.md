@@ -1,5 +1,5 @@
 
-# 🌐 AWS Infrastructure with Terraform | Production-Grade Architecture
+# AWS Infrastructure with Terraform | Production-Grade Architecture
 
 This project automates the provisioning of a scalable, multi-tier infrastructure on AWS using Terraform. It simulates a production-ready environment that includes compute, networking, databases, caching, messaging, and secure access, suitable for microservices-based backend workloads.
 
