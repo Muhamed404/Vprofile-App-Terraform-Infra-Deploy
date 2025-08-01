@@ -1,0 +1,1 @@
+ssh -i "vprofilekey.pem" ubuntu@ec2-44-193-204-163.compute-1.amazonaws.com
