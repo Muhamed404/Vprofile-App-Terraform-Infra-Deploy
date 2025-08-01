@@ -5,7 +5,7 @@ This project automates the provisioning of a scalable, multi-tier infrastructure
 
 ---
 
-## 📌 Use Case
+## Use Case
 
 Designed to support deployment of a Java-based web application (vProfile), this infrastructure serves as a blueprint for real-world systems requiring:
 
@@ -16,7 +16,7 @@ Designed to support deployment of a Java-based web application (vProfile), this 
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 ![AWS Infra](terraform-vprofile.jpg)
 
@@ -35,7 +35,7 @@ Designed to support deployment of a Java-based web application (vProfile), this 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 .
